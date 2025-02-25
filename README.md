@@ -1,2 +1,2 @@
-# Meta-Front-End-Developer-PC-m4l1_managing_a_project
-Creating own repo for Coursera course. Original link does not work: https://github.com/Meta-Front-End-Developer-PC/m4l1_managing_a_project
+# Managing a Project in GitHub
+Solution repo for Lab 3: [Managing a Project in GitHub](https://github.com/nikhilbachani/mfed-version-control/tree/main/git-and-github/lab3) as part of ***Meta Front-End Developer Professional Certificate - Course 3 - Version Control*** course (https://github.com/nikhilbachani/mfed-version-control)
